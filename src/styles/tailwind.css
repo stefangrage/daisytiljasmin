@@ -5,6 +5,8 @@
 @import "tailwindcss-animated";
 @import "tailwindcss-intersect";
 
+@plugin "daisyui";
+
 @theme {
   /* Her tilføjes theme variable // tokens */
 }
